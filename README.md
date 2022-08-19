@@ -1,1 +1,1 @@
-This project was done by following the Flutter Bootcamp by Angela Yu
+Simple Quizz App using Flutter
